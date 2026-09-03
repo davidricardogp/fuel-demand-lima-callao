@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these replication materials, please cite the paper and this repository."
+title: "Replication materials for Fuel Demand, Spatial Competition, and Local Market Structure"
+type: software
+authors:
+  - family-names: "Gonzales Peña"
+    given-names: "David Ricardo"
+    email: "drgnzales@iese.edu"
+affiliation: "IESE Business School"
+version: 1.0.0
+date-released: 2026-09-03
+repository-code: "https://github.com/davidricardogp/fuel-demand-lima-callao"
+abstract: >-
+  Stata code, analysis data, paper, and documentation for a study of the
+  price elasticity of demand for 90- and 95-octane gasohol in Metropolitan
+  Lima and Callao from March 2020 through December 2022.
+keywords:
+  - fuel demand
+  - price elasticity
+  - gasohol
+  - spatial competition
+  - instrumental variables
+  - Peru
+license: MIT
